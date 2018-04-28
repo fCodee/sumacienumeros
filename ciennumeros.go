@@ -18,4 +18,8 @@ func main() {
 			fmt.Println(i)
 		}
 	}
+
+	for i := 100; i >= 0; i-- {
+		fmt.Println(i)
+	}
 }
